@@ -20,3 +20,8 @@ git clone https://github.com/google-research/google-research.git
 AutoML 
 
 https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247538680&idx=3&sn=3ae77a6b219c227a4e74f84e9ae92937&chksm=e8d0e08adfa7699cacac6d598b36ffb5181637ce4cfb7c1ca59793cd9285c30712042edfa867&mpshare=1&scene=1&srcid=&sharer_sharetime=1583973210747&sharer_shareid=5255514b97ac794cb821b58c5f7d7f31&key=3b1437edcc7894e9c014db0d39f71c8e4119333c7dec6ed4d811a1c2dacc0669ef9eaf8b8e525ec320c3bc6071189b327114b4c2d93a0482e311159ba7b28f3a14e902b6647508f379c9e27c0e3d3a8e&ascene=1&uin=MjY3NDA5NzYxNQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AYXZVE0hysgn20XuSzLUKUU%3D&pass_ticket=vD3YdBwE7eDqjV3zecCC2RHUwFhqXtioAS5GyyRYy%2BJJvzFvXFbDkiJWPBQlvxCq
+
+数据安全治理
+
+http://www.dbsec.cn/zt/aqzl/
+
