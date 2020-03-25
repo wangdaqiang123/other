@@ -35,3 +35,6 @@ pjsip performance
 
 https://www.pjsip.org/testing/0.5.6.5/bench.htm
 
+SQL Perforance 
+
+https://zhuanlan.zhihu.com/p/112956030
