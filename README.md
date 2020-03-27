@@ -41,6 +41,17 @@ https://zhuanlan.zhihu.com/p/112956030
 
 溯源系统： 
 
-http://10.10.104.3/mgrops/MainPage.html
+http://10.10.104.3/mgrops/MainPage.html // 运维平台
 
-http://10.10.104.3/gt/MainPage.html
+http://10.10.104.3/gt/MainPage.html     // 组件平台
+http://10.10.104.3/gtcpsp/MainPage.html  // 溯源公共服务平台
+
+http://10.10.104.3/gtcpsp/MainPage.html
+http://10.10.104.3/mgr/MainPage.html    // 前端维护平台
+http://10.10.104.3/gtcirp
+
+
+
+
+
+
