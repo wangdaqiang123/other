@@ -53,6 +53,10 @@ http://10.10.104.3/mgr/MainPage.html    // 前端维护平台
 
 http://10.10.104.3/gtcirp
 
+http://10.10.104.15:8004/iprpsp/MainPage.html    // 知识产权
+
+
+
 数据库相关： 
 
 https://zhuanlan.zhihu.com/p/113790356
