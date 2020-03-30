@@ -53,7 +53,9 @@ http://10.10.104.3/mgr/MainPage.html    // 前端维护平台
 
 http://10.10.104.3/gtcirp
 
+数据库相关： 
 
+https://zhuanlan.zhihu.com/p/113790356
 
 
 
