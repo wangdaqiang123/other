@@ -15,3 +15,58 @@ TPO：溯源产品服务（traceability product output），提供服务：溯�
 OC：在线咨询服务（online consultation），提供服务：在线咨询
 CFGUNPACK:底层配置解压工程，执行命令：clean package
 MGR：全球溯源中心管理UI
+
+
+GTC / GTC-MGR 开发人员
+全球溯源中心管理系统
+
+GTC / GTC-DMS 开发人员
+全球溯源中心数据管理系统(Grobal Tracing Center Data Management System)
+
+GTC-FRONT / GTC-PSP-CUSTOMS 所有者
+海关溯源监管系统
+ 
+GTC-FRONT / GTC-PSP-FRONT 主程序员
+全球溯源中心公共服务平台前端
+
+GTC / GTC-FRONT-CORE 开发人员
+全球溯源中心前端核心业务系统
+
+GTC-FRONT / GTC-PSP-ADMIN 所有者
+运营管理中心
+
+GTC / GTC-PSPLAT 开发人员
+全球溯源中心公共服务平台(4+1等)
+
+GTC-FRONT / GTC-PSP-FILE 主程序员
+前端项目需求文档库
+
+GT / GT-BASE 开发人员
+全球溯源基础工具类&基础服务
+
+GT / GT-COMM-TOOL 开发人员
+溯源通用业务工具
+
+GT / GT-PRO-SDK 开发人员
+全球溯源信令SDK
+
+GT / GT-CSC 开发人员
+全球溯源公共技术组件服务中心(Global Tracing Compnent Service Center) 包含 溯源技术组件和公共技术组件
+
+GT / GT-UCMC 开发人员
+全球溯源统一认证管理中心（ Unified Certification Management Center Of Golab Traceablity）
+
+GTC / GTC-APPRUN 开发人员
+全球溯源中心dev启动工程
+
+GT / GT-APPMS 开发人员
+全球溯源移动端后台管理系统（Global Tracing APP Manager System）
+
+GT / GT-APPRUN 开发人员
+
+GT / GT-PRO-CLIENT 开发人员
+信令轻客户端
+
+GTC / GTC-APP 开发人员
+全球溯源中心APP
+
