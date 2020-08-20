@@ -1,0 +1,17 @@
+全球溯源中心管理系统(GTC-MGR)
+
+JDK：Oracle JDK 1.8
+
+模块包括：
+
+
+PF:公共基础服务(public foundation),提供服务：注册，新建，内容发布，系统配置，敏感词管理，举报，咨询评价投诉，我收到的信息
+CBM：共建方管理服务(co- builder management)，提供服务：共建方信息，共建方需求，授权管理，权限定义，我的服务，需求管理，服务商清退
+TB：溯源基础服务(traceability basic)，提供服务：企业登记，商品资料登记，溯源办理，溯源申报，碎片化数据，溯源标识管理
+IA：采集服务（information acquisition）采集服务，提供服务：信息采集
+RM：风险管理服务（risk management），提供服务：风险管理
+TP: 溯源产品服务(traceability product),提供服务：关联结果，标准碎片化数据，生成GTS
+TPO：溯源产品服务（traceability product output），提供服务：溯源产品的定制查询，权限，查询统计等功能
+OC：在线咨询服务（online consultation），提供服务：在线咨询
+CFGUNPACK:底层配置解压工程，执行命令：clean package
+MGR：全球溯源中心管理UI
