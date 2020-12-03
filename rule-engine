@@ -1,3 +1,22 @@
 https://www.infoq.cn/article/m7SkfLBUPoyoUXX8RlLI
 
 https://github.com/Hale-Lee/RuleEngine
+
+             Netfilter  处理流程
+•	
+•	规则是对特定报文的处理说明，包括匹配字段和action。
+•	链是一组规则的集合。
+•	表是链中相同功能的规则集合。
+规则
+链
+链可以看作网卡和内核协议栈之前的多道关卡，对于不通类型的报文，走不通的关卡进行处理，即匹配不通的链。
+•	由网卡上送到内核协议栈的报文：PREROUTING -> INPUT
+•	由网卡出来不能上送到内核协议栈的报文：PREROUTING -> FORWARD -> POSTROUTING
+•	由内核协议栈送往网卡的报文：OUTPUT -> POSTROUTING
+表
+为了管理方便，链中相同功能的规则被组织在了一张表中，iptables已经为我们定义了四张表。
+表的优先级次序（由高到低）：raw -> mangle -> nat -> filter
+
+
+
+
