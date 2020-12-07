@@ -17,6 +17,10 @@ https://github.com/Hale-Lee/RuleEngine
 为了管理方便，链中相同功能的规则被组织在了一张表中，iptables已经为我们定义了四张表。
 表的优先级次序（由高到低）：raw -> mangle -> nat -> filter
 
+// goengine
 
 
+https://xie.infoq.cn/article/40bfff1fbca1867991a1453ac
+
+https://github.com/rencalo770/gengine/
 
