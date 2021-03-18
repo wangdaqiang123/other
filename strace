@@ -1,0 +1,1 @@
+strace -T -tt -s 100 -o /tmp/strace.log -p $PID 
